@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SubmisionDicodingAndroidPemula</string>
+    <string name="manfaat">Manfaat : Menjaga kesehatan jant...</string>
+    <string name="deskripsi">Deskripsi : Terawat dengan baik, Di jamin am...</string>
+    <string name="harga">Harga : 125.000</string>
+    <string name="asam_jawa">Asam Jawa</string>
+    <string name="membantu">Membantu menjaga kesehatan sistem pencernaan, Menjaga kesehatan jantung, Membantu mengontrol gula darah, Membantu menurunkan berat badan, Membantu melindungi organ hati, Menjaga kesehatan gigi, Mencegah infeksi jamur, Meredakan mual.</string>
+    <string name="manfat">Manfaat :</string>
+    <string name="terawat">Terawat dengan baik, di jamin aman, 2 hari di jamin sampai bila belum sampai dalam 2 hari maka ada pengembalian uang 100%</string>
+    <string name="deskrips">Deskripsi :</string>
+    <string name="_18">18</string>
+    <string name="stock">Stock :</string>
+    <string name="rp_125_000">Rp.125,000</string>
+    <string name="asamm_jawa">Asam Jawa</string>
+    <string name="_1_photo">1 photo</string>
+</resources>
